@@ -1,0 +1,31 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+header {
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    background-color: white;
+    border: #cccccc;
+    z-index: 0;
+}
+
+#teal {
+
+    background-color:#4aaaa5;
+    font-style: black;
+    z-index: 1;
+
+}
+
+#background {
+
+ background-size: cover;
+
+}
+
+
+body {
+    width: 960px;
+    background-color: #ffffff;
+    border: #dddddd;
+
+}
